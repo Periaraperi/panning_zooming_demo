@@ -13,6 +13,3 @@ cmake ..
 cmake --build .
 ./panning_zooming
 ```
-
-## Demo
-![](demo.gif)
